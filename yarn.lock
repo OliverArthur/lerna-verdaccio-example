@@ -2,18 +2,6 @@
 # yarn lockfile v1
 
 
-"@hbetts/conventional-changelog-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@hbetts/conventional-changelog-config/-/conventional-changelog-config-1.0.0.tgz#40ef99f30a0f7260e353cef0fb1fafcb5d55c3a3"
-  integrity sha512-73PNFVyTeqiuFTXXB82lnpW1yQQobkkZWrGhfHXp0FN9kF1xsNkbjZv3zmZU//6w7PmkbUT3KcoRUBHME9o3/A==
-  dependencies:
-    conventional-changelog-angular "^5.0.0"
-
-"@hbetts/lerna-config@^1.0.0":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@hbetts/lerna-config/-/lerna-config-1.0.3.tgz#4f05c1ba9edd0fc602757a80dfb4d80e8a55b618"
-  integrity sha512-3ei4VF/olotBHCc7Z1yqyPmRUkjSAT5QJyuXdega/mtO0uyc0QK83CZwhlQ2D5UedKAZwAhu1mmeGYbTJ3wX1Q==
-
 "@lerna/add@^3.4.1":
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/@lerna/add/-/add-3.4.1.tgz#d41068317e30f530df48220d256b5e79690b1877"
@@ -1124,7 +1112,7 @@ console-control-strings@^1.0.0, console-control-strings@~1.1.0:
   resolved "https://registry.yarnpkg.com/console-control-strings/-/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e"
   integrity sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4=
 
-conventional-changelog-angular@^5.0.0, conventional-changelog-angular@^5.0.1:
+conventional-changelog-angular@^5.0.1:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/conventional-changelog-angular/-/conventional-changelog-angular-5.0.2.tgz#39d945635e03b6d0c9d4078b1df74e06163dc66a"
   integrity sha512-yx7m7lVrXmt4nKWQgWZqxSALEiAKZhOAcbxdUaU9575mB0CzXVbgrgpfSnSP7OqWDUTYGD0YVJ0MSRdyOPgAwA==
@@ -1959,9 +1947,9 @@ has-values@^1.0.0:
     kind-of "^4.0.0"
 
 hosted-git-info@^2.1.4, hosted-git-info@^2.6.0:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
-  integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 http-cache-semantics@^3.8.1:
   version "3.8.1"
